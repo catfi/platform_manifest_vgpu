@@ -2,11 +2,11 @@
 <manifest>
 	<remote  name="origin" fetch="ssh://git@github.com/"/>
 	<default revision="master" remote="origin"/>
-	<project path="platform" name="zillians/platform"/>
-	<project path="platform/projects/docs" name="zillians/platform_docs"/>
-	<project path="platform/projects/common" name="zillians/platform_common"/>
-	<project path="platform/projects/protocol" name="zillians/platform_protocol"/>
-	<project path="platform/projects/node" name="zillians/platform_node"/>
-	<project path="platform/projects/vgpu" name="zillians/platform_virtual_gpu"/>
-	<project path="platform/projects/tools" name="zillians/platform_tools"/>
+	<project path="platform" name="poyenc/platform"/>
+	<project path="platform/projects/docs" name="poyenc/platform_docs"/>
+	<project path="platform/projects/common" name="poyenc/platform_common"/>
+	<project path="platform/projects/protocol" name="poyenc/platform_protocol"/>
+	<project path="platform/projects/node" name="poyenc/platform_node"/>
+	<project path="platform/projects/vgpu" name="poyenc/platform_virtual_gpu"/>
+	<project path="platform/projects/tools" name="poyenc/platform_tools"/>
 </manifest>
