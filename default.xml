@@ -8,5 +8,4 @@
 	<project path="platform/projects/protocol" name="zillians/platform_protocol"/>
 	<project path="platform/projects/node" name="zillians/platform_node"/>
 	<project path="platform/projects/vgpu" name="zillians/platform_virtual_gpu"/>
-	<project path="platform/projects/tools" name="zillians/platform_tools"/>
 </manifest>
